@@ -4,7 +4,6 @@ The Art of the Silent Fist almost landed me in despair - I felt, sometime ago I 
 
 
 ![theCryptor](https://user-images.githubusercontent.com/91435534/138620036-83419930-812c-4c27-8c35-1f7c6d10a530.png)
-![67983231_1270684763114244_7090192236268224512_n (1)](https://user-images.githubusercontent.com/91435534/138620103-ea9d6af4-42fb-4d1f-88a1-80a132b262eb.jpg)
 
 
 
