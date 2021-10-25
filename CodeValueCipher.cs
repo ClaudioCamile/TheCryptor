@@ -26,7 +26,7 @@ namespace cryptor
             Regex rx = new Regex(("^[a-zA-Z ]*$"));
             if (!rx.IsMatch(message)) return userErrorNotification;
 
-            string orderedKey = "ABCDEFGHIJKLMNOPQRSTVUWXYZ";
+            string orderedKey = String.Concat(key.OrderBy(k => k));
             string unOrderedKey = key;
             key = action ? orderedKey : unOrderedKey;
 
